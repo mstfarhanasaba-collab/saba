@@ -1,0 +1,6 @@
+{
+  "name": "Dokan Direct - WhatsApp Social Commerce",
+  "description": "Direct-to-WhatsApp social commerce storefront and merchant dashboard tailored for Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
